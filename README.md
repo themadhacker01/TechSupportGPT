@@ -3,3 +3,5 @@ A Proof-of-Concept for a support agent powered by Google Pro and Pro Vision mode
 
 ## Docs
 [IT support bot using Gemini and Python](https://pub.towardsai.net/get-started-with-google-gemini-pro-using-python-in-5-minutes-00700244f58a)
+
+[Understanding YAML and its syntax](https://www.redhat.com/en/topics/automation/what-is-yaml)
